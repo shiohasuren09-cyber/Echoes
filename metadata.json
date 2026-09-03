@@ -1,0 +1,6 @@
+{
+  "name": "Echoes of Elmridge",
+  "description": "A 3D first-person psychological horror experience set in a nostalgic 1990s childhood home, exploring memory, hallucinations, and hidden reality.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
